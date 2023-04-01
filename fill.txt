@@ -1,15 +1,10 @@
 hi am rupa
 i like movies
 i am good girl
-<<<<<<< HEAD
+
 anthena
 nkem cheppali
 tftyh
 ghghk
-<<<<<<< HEAD
 hello
-=======
-
->>>>>>> 9c7887ca93433e0caad140975a32b893775ba249
-
 
