@@ -6,8 +6,6 @@ anthena
 nkem cheppali
 tftyh
 ghghk
-=======
->>>>>>> parent of 4222ba5 (add 2 lines)
-
+hello
 
 
